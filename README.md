@@ -1,5 +1,6 @@
 # Stock-Portfolio-Application
 
+SETUP-README
 	
 GUI
 	
