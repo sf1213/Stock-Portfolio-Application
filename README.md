@@ -1,5 +1,9 @@
 # Stock-Portfolio-Application
 
+This application helps users who are new to investment to learn about how money could grow. It allows user to create investment portfolios, try out buying and selling stock, and various investment strategies to see how they can grow (or shrink) their money with time.
+
+
+
 SETUP-README
 	
 GUI
