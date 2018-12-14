@@ -125,6 +125,14 @@ Welcome to Stock Portfolio! Please choose one number : (Enter 'q' or 'Q' to quit
 
 
 
+
+
+
+
+
+
+
+
 DESIGN-README
 
 
@@ -182,7 +190,7 @@ and accept the set of callbacks from the controller, and hook up as needed to va
 These panels represent pop-out panels outside the main JFrame window.
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------
 
 Assignment-9 Extension changes:
 
@@ -234,8 +242,7 @@ Add one line "7. Apply Strategy" to the menu. Nothing else change.
 
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+---------------------------------------------------------------------
 
 The Design include model, viewer, and controller sub model, functions as :
 
@@ -349,9 +356,7 @@ Assignment-9 Extension changes: Add one line "7. Apply Strategy" to the menu. No
 
 
 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+------------------------------------------------------------------------
 
 
 Overall, the controller knows only the interface of view and model, and nothing about the detail implementation of view and model.
